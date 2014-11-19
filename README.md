@@ -9,7 +9,7 @@ Step 1: Sign up for [Github.](https://github.com/join) It's the best way to cont
 
 Step 2: Download GitHub for your computer - [here for mac users](https://mac.github.com/), [here for windows users](https://windows.github.com/). Once downloaded, open it up and sign in.
 
-Step 3: Download [Sublime Text 2.](http://www.sublimetext.com/2) It's basically Microsoft word for programming. (Note: they ask you to purchase it for $70, but the free trial is unlimited, so interpret that how you will...). Open it up.
+Step 3: Download [Sublime Text 2.](http://www.sublimetext.com/2) It's basically Microsoft Word for programming. (Note: they ask you to purchase it for $70, but the free trial is unlimited, so interpret that how you will...). Open it up.
 
 Step 4: Go to https://github.com/zachboyette/PersonalWebsiteGuide (if you aren't already here), and click "Download Zip" ([screenshot for reference](http://imgur.com/x7fmpJc))
 
