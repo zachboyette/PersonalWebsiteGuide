@@ -5,7 +5,7 @@ A guide I created to help my non-programmer friends understand the fundamentals 
 
 <h2>FIRST STEPS: STUFF TO DOWNLOAD</h2>
 
-Step 1: Sign up for [Github.](https://github.com/join) It's the best way to continually save your code to the internet (in "repositories"), so you can see your progress, backup your files, and collaborate with others. Think of it kinda like Dropbox for programmers, except anybody can see your stuff.
+Step 1: Sign up for [Github.](https://github.com/join) It's the best way to continually save your code to the internet (in "repositories"), so you can see your progress, backup your files, and collaborate with others. Think of it kinda like Dropbox for programmers, except anybody can see your stuff.on
 
 Step 2: Download GitHub for your computer - [here for mac users](https://mac.github.com/), [here for windows users](https://windows.github.com/). Once downloaded, open it up and sign in.
 
@@ -31,7 +31,7 @@ Step 9: Drag the entire folder for your personal website from Finder/Explorer do
 Congratulations! After this step, most of the tricky parts are out of the way.
 NOTE: For your knowledge, the index.html file is the fundamental backbone for a website. It contains all the text and very basic "markup" information. 
 
-Step 10: So you should have your template open locally in a browser from Step 8. Pick a random sentence like to change. Now, go back into index.html on Sublime Text, and find that sentence. Change it to whatever you'd like (for example, change "Hi my name is John Doe" to "Hi my name is Peter Griffin." Save the index.html file. Now go hit refresh on in your browser on your locally deployed website and, voila! You'll see the changes you made.
+Step 10: So you should have your template open locally in a browser from Step 8. Pick a random sentence like to change. Now, go back into index.html on Sublime Text, and find that sentence. Change it to whatever you'd like (for example, change "Hi my name is John Doe" to "Hi my name is Peter Griffin." Save the index.html file. Now go hit refresh in your browser on your locally deployed website and, voila! You'll see the changes you made.
 
 Step 11: Go back to GitHub on your computer. It will be displaying the change(s) you made. Once again, as in Step 7, write a short "Summary" then click "Commit & Sync" ([screenshot for reference](http://imgur.com/z34MP24)).
 
