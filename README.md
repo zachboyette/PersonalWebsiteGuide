@@ -39,7 +39,7 @@ Step 11: Go back to GitHub on your computer. It will be displaying the change(s)
 
 Step 12: At this point, if you know HTML and CSS, you'll be able to edit your website as you see fit. Otherwise, feel free to just change pieces of text in the index.html file, and watch them come to life on your browser. Don't worry if you don't know HTML and CSS - there are plenty of websites like www.codecademy.com to help you learn the syntax.
 
-Step 13: Continue commiting your changes to GitHub as you edit your website. You don't need to do it after every change you make - just after you've been working for a while.
+Step 13: Continue commiting your changes to GitHub as you make your edits. You don't need to do it after every change you make - just after you've been working for a while.
 
 
 Onward: when I have more time, I will continue this guide to teach you how to deploy your website onto the internet.
