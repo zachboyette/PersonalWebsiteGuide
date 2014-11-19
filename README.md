@@ -1,7 +1,7 @@
 PersonalWebsiteGuide
 ====================
 
-A guide I created to help my non-programmer friends understand the fundamentals of creating and locally deploying a simple static portfolio website.
+A guide I made to help my non-programmer friends understand the fundamentals of creating and locally deploying a simple static portfolio website.
 
 <h2>FIRST STEPS: STUFF TO DOWNLOAD</h2>
 
