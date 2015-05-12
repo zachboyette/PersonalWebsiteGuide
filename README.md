@@ -5,7 +5,7 @@ A guide I made to help my non-programmer friends understand the fundamentals of 
 
 <h2>FIRST STEPS: STUFF TO DOWNLOAD</h2>
 
-Step 1: Sign up for [Github.](https://github.com/join) It's the best way to continually save your code to the internet (in "repositories"), so you can see your progress, backup your files, and collaborate with others. Think of it kinda like Dropbox for programmers, except anybody can see your stuff.
+Step 1: Sign up for [Github.](https://github.com/join) It's the best way to continually save your code to the internet (in "repositories" aka "repos"), so you can track your progress, backup your files, and collaborate with others. It's kinda like Dropbox for programmers, except anybody can see your stuff (unless you're paying for private repos, like we do for [Recsy](https://www.recsy.com)).
 
 Step 2: Download GitHub for your computer - [here for mac users](https://mac.github.com/), [here for windows users](https://windows.github.com/). Once downloaded, open it up and sign in.
 
