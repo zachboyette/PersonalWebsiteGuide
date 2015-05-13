@@ -1,7 +1,10 @@
 PersonalWebsiteGuide
 ====================
 
-A guide I made to help my non-programmer friends understand the fundamentals of creating and locally deploying a simple static portfolio website.
+A guide to show my non-programmer friends the fundamentals of creating a simple static portfolio website.
+
+<b>Personal plug:</b> want your own website in less than 5 minutes without being overwhelmed by this guide?....<br>
+<b>...I'm co-founder of [Recsy](https://www.recsy.com), the easiest way to get a personal website (no coding experience required). [Sign up for our private beta, we'd love to have you!](https://www.recsy.com)</b>
 
 <h2>FIRST STEPS: STUFF TO DOWNLOAD</h2>
 
@@ -42,4 +45,7 @@ Step 12: At this point, if you know HTML and CSS, you'll be able to edit your we
 Step 13: Continue commiting your changes to GitHub as you make your edits. You don't need to do it after every change you make - just after you've been working for a while.
 
 
-Onward: when I have more time, I will continue this guide to teach you how to deploy your website onto the internet.
+Onward: when I have more time, I will continue this guide to teach you how to deploy your website onto the internet. 
+
+<b>Personal plug:</b> want your own website in less than 5 minutes without being overwhelmed by this guide?....<br>
+<b>...I'm co-founder of [Recsy](https://www.recsy.com), the easiest way way to make a personal website (no coding experience required). [Sign up for our private beta, we'd love to have you!](https://www.recsy.com)</b>
